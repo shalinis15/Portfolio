@@ -1,11 +1,11 @@
-# Hi, I'm Shalini 👋
+# Hi, I'm Shalini 
 
 ## About Me
 I'm a B.Com student pursuing the US CMA qualification with a strong interest in Finance, Management Accounting, Business Analysis, and Data Analytics. I enjoy learning through academic projects and continuously developing practical skills.
 
 ## Education
-- 🎓 Bachelor of Commerce (B.Com)
-- 📘 US CMA Candidate
+- Bachelor of Commerce (B.Com)
+- US CMA Candidate
 
 ## Skills
 - Microsoft Excel
