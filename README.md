@@ -14,14 +14,6 @@ Learning finance, accounting, fintech, economics, and practical application of f
 Recorded and organized financial data in Microsoft Excel with accuracy and attention to detail.
 Maintained structured Excel ledgers for Bills of Quantities (BOQ) and tax invoices to support project tracking and vendor management.
 
-## Projects
-### Application of Management Accounting Techniques in Business Decision Making
-- Conducted a study on management accounting techniques.
-- Analyzed budgeting, cost control, and decision-making methods.
-
-### DMart Retail Sales Analytics Dashboard | Power BI                                                                                     Developed an interactive Power BI dashboard using a DMart retail sales dataset to analyze business performance.
-Built a structured data model and created DAX measures to monitor KPIs such as sales, profit, customer insights, and regional performance. 
-
 ## Education
 - Bachelor of Commerce (B.Com)
 - US CMA Candidate
