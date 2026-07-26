@@ -5,7 +5,7 @@ I'm a B.Com student pursuing the US CMA qualification with a strong interest in 
 
 ## Experience
 ### Associate - Transactional F&A (Apprentice)
-**Commonwealth Bank **
+**Commonwealth Bank**
 Undergoing structured virtual training in transactional finance and accounting through Microsoft Teams.
 Learning finance, accounting, fintech, economics, and practical application of financial formulas and calculations
 
